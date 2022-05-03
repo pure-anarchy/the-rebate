@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "rico", # the data crawler
+    "kowalski", # the neuaral net,
+    "skipper", # the binary that runs everything
+]
+
+default-members = ["skipper"]
